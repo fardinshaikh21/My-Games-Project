@@ -1,4 +1,4 @@
-# Hi Welcome to Game Repository
+# Hi Welcome to My Game Repository
 ***
 
 **I am created some games using python**
