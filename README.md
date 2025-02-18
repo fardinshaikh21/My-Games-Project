@@ -6,16 +6,4 @@
 - Rock-Paper-Scissor
 - Hungman Game
 ---
-fardin fardin
-fardin fardin
-fardin fardin
-fardin fardin
-fardin fardin
-fardin fardin
-fardin fardin
-fardin fardin
-fardin
-fardin
-fardin
-fardin
-fardin
+
