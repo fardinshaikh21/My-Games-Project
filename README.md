@@ -7,14 +7,5 @@
 - Hungman Game
 ---
 
-fardinfardin
-fardinfardinfardin
-fardinfardinfardin
-fardinfardin
-fardin
-fardinfardinfardin
-fardinfardin
-fardinfardinfardinfardin
-
 
 
