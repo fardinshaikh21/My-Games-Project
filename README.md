@@ -3,7 +3,7 @@ fardinfardinfardinfardinfardin
 fardinfardinfardinfardinfardin
 fardinfardinfardinfardinfardin
 fardinfardinfardinfardinfardin
-fardin
+fardinfardin
 
 # Hi Welcome to My Game Repository
 ***
