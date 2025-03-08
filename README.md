@@ -1,10 +1,3 @@
-fardinfardinfardinfardinfardin
-fardinfardinfardinfardinfardin
-fardinfardinfardinfardinfardin
-fardinfardinfardinfardinfardin
-fardinfardinfardinfardinfardin
-fardinfardinfardinfardinfardin
-
 # Hi Welcome to My Game Repository
 ***
 
