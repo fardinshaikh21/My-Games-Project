@@ -6,8 +6,3 @@
 - Rock-Paper-Scissor
 - Hungman Game
 ---
-
-
-
-
-
