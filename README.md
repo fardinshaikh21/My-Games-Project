@@ -1,4 +1,4 @@
-fard
+eqrfard
 
 # Hi Welcome to My Game Repository
 ***
